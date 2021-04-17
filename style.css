@@ -1,0 +1,15 @@
+h1 {
+    color:darkblue;
+}
+
+.footer{
+    display:flex;
+    justify-content: center;
+}
+
+h2{
+    color:saddlebrown
+}
+p{
+    color: green;
+}
